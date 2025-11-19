@@ -22,7 +22,7 @@ solution = np.linalg.solve(A, B)
 print(solution)
 
 ## Output:
-<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/4f60b6ed-acea-44c6-bbf6-1302275fcbc8" />
+<img width="455" height="809" alt="Screenshot 2025-11-19 104314" src="https://github.com/user-attachments/assets/67bc4154-5e93-431a-8aa5-3ffca01eda14" />
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
